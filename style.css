@@ -1,0 +1,58 @@
+.topTitle{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+img {
+    
+}
+.firstTitle {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: white;
+    
+}
+.fontBrown {
+    background-color: #654E21;
+}
+.div1 {
+    padding: 60px;
+    margin: auto;
+    width: 50%;
+}
+.avgTitle {
+    text-align: center;
+    color: #654E21;
+}
+
+.text {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+.littleTitle {
+    position: absolute;
+    left: 230px;
+    color: #654E21;
+}
+.insidePicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #654E21;
+    color: white;
+    
+}
+.footerTitle {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
